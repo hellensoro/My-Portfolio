@@ -170,7 +170,8 @@ section {
     margin: auto 0; /* auto in the top AND 0 in the sides */
 }
 img.rounded-corners {
-        border-radius: 50%;
+
+         border-radius: 50%; 
 }
 
 .section_text {
