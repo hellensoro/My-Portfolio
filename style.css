@@ -8,6 +8,9 @@
 
 body {
     font-family: "Poppins", sans-serif;
+    background-color: #f7f7f7;
+    background-image: url("https://transparenttextures.com/patterns/diagmonds-light.png");
+    
 }
 
 html {
